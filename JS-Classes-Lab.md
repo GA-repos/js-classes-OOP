@@ -58,10 +58,6 @@ In this lab, you will choose one of the object hierarchies below, **Bank Account
 | `Employee` | `manager` (references a `Manager` object) | Your choice - be creative! |
 
 
-## Deliverables
-
-This lab is **not a deliverable**.
-
 #### One Solution
 
 Try not to peek, but [here's an implementation](https://repl.it/GjTg/10) of the `People` class hierarchy. 
