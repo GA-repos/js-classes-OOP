@@ -1,4 +1,4 @@
 # JS-Classes-OOP
 Intro to Javascript Classes and OOP
 
-## Here we have the lesson and the lab files above.
+[JS Classes and OOP Lesson]('/JS-Classes-OOP-Lesson')
